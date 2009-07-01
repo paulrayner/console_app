@@ -30,7 +30,7 @@ namespace bank
         }
     }
 
-        [TestFixture]
+    [TestFixture]
     public class When_performing_a_deposit_on_an_Account
     {
         [Test]

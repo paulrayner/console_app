@@ -2,7 +2,7 @@
 
 namespace bank
 {
-    // This is an Account. It represent's a customer's bank account
+    // This is an Account. It represents a customer's bank account
     public class Account
     {
         private const int NegativeBalanceFee = -25;
